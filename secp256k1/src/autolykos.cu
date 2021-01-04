@@ -512,7 +512,7 @@ int main(int argc, char ** argv)
     //  Main thread get-block cycle
     //========================================================================//
     uint_t curlcnt = 0;
-    const uint_t curltimes = 500;
+    const uint_t curltimes = 2000;
 
     milliseconds ms = milliseconds::zero(); 
     
